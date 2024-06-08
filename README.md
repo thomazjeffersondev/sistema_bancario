@@ -43,10 +43,3 @@ Extrato (e):
 
 Sair (q):
  - Encerra o loop e finaliza o programa.
-
-4 - Observações:
-
- - Certifique-se de que o código esteja dentro de um arquivo Python (por exemplo, conta_bancaria.py) para executá-lo corretamente.
-
- - Você pode personalizar as mensagens de erro ou adicionar mais funcionalidades conforme necessário.
-
