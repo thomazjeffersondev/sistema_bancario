@@ -13,7 +13,7 @@
 
  - ****saldo****: Inicializado com zero (representa o saldo da conta).
 
- - ****limite****: Inicializado com 500 (representa o limite de saque).
+ - ****limite****: Inicializado com 1000 (representa o limite de saque).
 
  - ****extrato****: Inicializado como uma string vazia (será usado para registrar as transações).
 
